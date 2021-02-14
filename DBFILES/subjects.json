@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6028bdadedb1be16506ccca9"
+  },
+  "name": "Ciencias Naturales 5°",
+  "description": "Ciencias Naturales es una buena materia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6028bdd2edb1be16506cccaa"
+  },
+  "name": "Ciencias Naturales 5°",
+  "description": "Ciencias Naturales es una buena materia",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6028c1bb5180a114fcdc2755"
+  },
+  "name": "Matematicas 3°",
+  "description": "Matematicas rules",
+  "__v": 0
+}]

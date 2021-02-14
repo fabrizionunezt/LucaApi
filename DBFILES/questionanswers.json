@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6028c4b150d1a406301214f5"
+  },
+  "idUser": "60289d9f76ee442e4030b294",
+  "idQuestion": "6028b44a661cb60cdcd31505",
+  "answer": "La fuente de fuego generado de manera natural es incierta a la fecha actual",
+  "date": {
+    "$date": "2021-02-14T06:35:29.301Z"
+  },
+  "__v": 0
+}]

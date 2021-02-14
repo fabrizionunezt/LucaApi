@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "60289d9f76ee442e4030b294"
+  },
+  "name": "marina",
+  "scoreFire": 4,
+  "scorePolice": 2,
+  "scoreFlower": 13,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60289db076ee442e4030b295"
+  },
+  "name": "Fabrizio",
+  "scoreFire": 4,
+  "scorePolice": 0,
+  "scoreFlower": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6028c8433758751b2c49459f"
+  },
+  "name": "Juan",
+  "scoreFire": 21,
+  "scorePolice": 25,
+  "scoreFlower": 2
+}]

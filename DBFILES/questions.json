@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6028b38e7bb5f20efc07e748"
+  },
+  "idSubject": "6028bdd2edb1be16506cccaa",
+  "idAuthor": "60289db076ee442e4030b295",
+  "title": "¿Como es que se forma el fuego?",
+  "details": "Tengo una duda en la forma en la que se propaga el fuego por el vacio",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6028b44a661cb60cdcd31505"
+  },
+  "idSubject": "6028c1bb5180a114fcdc2755",
+  "idAuthor": "60289db076ee442e4030b295",
+  "title": "¿Como es que se forma el fuego pero naturalmente?",
+  "details": "Tengo una duda en la forma en la que se genera el fuego naturalmente",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6028ff502a7abf01e4e659c0"
+  },
+  "idSubject": "6028c1bb5180a114fcdc2755",
+  "idAuthor": "6028c8433758751b2c49459f",
+  "title": "¿Cuantas lunas tiene saturno?",
+  "details": "Creo que tiene 4 pero consulto para sacarme la duda.",
+  "registerDate": {
+    "$date": "2021-02-14T10:45:36.122Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6028ff8c2a7abf01e4e659c1"
+  },
+  "idSubject": "6028c1bb5180a114fcdc2755",
+  "idAuthor": "6028c8433758751b2c49459f",
+  "title": "¿Que es el metodo pomodoro?",
+  "details": "Lo nombro el otro dia mi profesor y no se que es",
+  "registerDate": {
+    "$date": "2021-02-14T10:46:36.172Z"
+  },
+  "__v": 0
+}]

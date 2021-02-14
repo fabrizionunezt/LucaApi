@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6028d9ccbfae2f318859ab3e"
+  },
+  "idUser": "6028c8433758751b2c49459f",
+  "liked": true,
+  "disliked": false,
+  "following": false,
+  "idQuestion": "6028b44a661cb60cdcd31505",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6028dcdf130d3b0500c7d3b9"
+  },
+  "idUser": "6028c8433758751b2c49459f",
+  "liked": false,
+  "disliked": true,
+  "following": true,
+  "idQuestion": "6028b38e7bb5f20efc07e748",
+  "__v": 0
+}]
